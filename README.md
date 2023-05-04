@@ -13,7 +13,8 @@
 * Leaderboards
 
 ## Tehnologies
-* Aplication is based in Unity
+* Unity
+* C#
 
 ## Description
 Jumpy Knight is a free 2D pixel runner game where you are constantly on the move. Run and jump over the enemies while collecting gold and treasure chests to unlock new faster characters which can jump higher. There is always a gold coin somewhere on the map to be collected. The chest spawns every 30 seconds after pickup. The goal is to survive as long as possible and watch your score rise.
